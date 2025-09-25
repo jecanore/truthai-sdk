@@ -1,6 +1,6 @@
 [project]
 name = "truthai-sdk"
-version = "0.0.1"
+version = "0.0.2"
 description = "Coming soon from TruthAI"
 authors = [{name = "TruthAI", email = "contact@truthai.com"}]
 readme = "README.md"
